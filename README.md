@@ -3,5 +3,5 @@ HW 1 - Algo. for DM
 
 This repository contains:
 
-- a pdf file, called 'stamps', that contains all the screenshots of my submissions
+- a pdf file, called 'stamps_HW1', that contains all the screenshots of my submissions
 - 
